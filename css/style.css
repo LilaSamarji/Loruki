@@ -41,7 +41,7 @@
    
    /*NavBar*/
    .navbar {
-      background-color:var(--babyBlue);
+      
       color:var(--navText);
       height:70px;
      }
